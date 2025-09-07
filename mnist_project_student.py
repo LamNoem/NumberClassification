@@ -273,7 +273,7 @@ print(f"Files in current directory '{model_path}': {files}")
 
 #saving model
 
-model_name = 'number_predict11.pth'
+model_name = 'number_predict12.pth'
 
 PATH = model_path + "/" + model_name
 
