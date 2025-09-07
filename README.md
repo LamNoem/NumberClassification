@@ -10,3 +10,7 @@ mnist_gradio file -> interface with hugging face\n
 
 number classification test file -> testa loaded model with the exact architecture
 
+number predict 11 file -> saved model
+
+
+
