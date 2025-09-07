@@ -6,7 +6,7 @@ Repository does not contain the original training and testing source code file f
 
 mnist_project_student file -> where model was trained  
 
-mnist_gradio file -> interface with hugging face\n  
+mnist_gradio file -> interface with hugging face
 
 number classification test file -> testa loaded model with the exact architecture
 
