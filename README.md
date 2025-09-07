@@ -4,7 +4,9 @@ Repository contains pdf file of paper that describes the structure of the CNN mo
 Repository contains ipnyb file with the source code that displays the CNN structure, the prediction process, and the gradio (online interface) code.
 Repository does not contain the original training and testing source code file for this specific model being used.
 
-mnist_project_student file -> where model was trained\n
-mnist_gradio file -> interface with hugging face\n
+mnist_project_student file -> where model was trained  
+
+mnist_gradio file -> interface with hugging face\n  
+
 number classification test file -> testa loaded model with the exact architecture
 
