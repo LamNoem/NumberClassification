@@ -7,7 +7,7 @@ mnist_project_student file -> where model was trained
 
 mnist_gradio file -> interface with hugging face
 
-number classification test file -> testa loaded model with the exact architecture
+number classification test file -> test loaded model with the exact architecture
 
 number predict 11 file -> saved model
 
