@@ -5,3 +5,4 @@ Repository contains ipnyb file with the source code that displays the CNN struct
 Repository does not contain the original training and testing source code file for this specific model being used.
 
 mnist_project_student file -> where model was trained
+mnist_gradio file -> interface with hugging face
