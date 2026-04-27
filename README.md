@@ -12,6 +12,7 @@ number classification test file -> test loaded model with the exact architecture
 number predict 11 file -> saved model
 
 screen recording file -> interace demo
-
+link to huggingfacs space: 
+https://huggingface.co/spaces/NoemieL/NumberClassification 
 
 
